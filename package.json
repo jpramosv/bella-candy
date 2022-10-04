@@ -1,0 +1,22 @@
+{
+  "name": "bella-doces",
+  "version": "1.0.0",
+  "description": "Landing page for Doces Bella",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpramosv/bella-candy.git"
+  },
+  "author": "Joao Paulo Ramos Vieira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpramosv/bella-candy/issues"
+  },
+  "homepage": "https://github.com/jpramosv/bella-candy#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
