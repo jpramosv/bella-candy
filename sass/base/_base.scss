@@ -1,0 +1,16 @@
+*,
+*::after,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  /*Padrão é 16px, entao basta dividir a font-size pelo padrao que é 16 10/16 = 62.5% */
+  font-size: 62.5%;
+}
+
+body {
+  box-sizing: border-box;
+}
