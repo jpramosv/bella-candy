@@ -31,6 +31,14 @@
       background-color: #fff;
     }
   }
+  &--brown {
+    background-color: chocolate;
+    color: white;
+
+    &::after {
+      background-color: chocolate;
+    }
+  }
 
   &::after {
     content: "";
