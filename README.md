@@ -1,10 +1,9 @@
   ## Introdução
 
   Criação de um site para empresa da minha esposa de bombons.
-
+  https://docesbella.vercel.app/
 ## ✔️ Website criado com:
 - HTML 
-- CSS
 - JavaScript
 - SCSS
 - BEM
