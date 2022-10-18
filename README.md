@@ -5,7 +5,6 @@
 ## ✔️ Website criado com:
 - HTML 
 - JavaScript
-- CSS
 - SCSS
 - BEM
 - NPM
